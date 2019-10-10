@@ -1,0 +1,15 @@
+title="After the Storm Music"
+type="media"
+version="@ PBLPOST:VERSION @"
+dependencies="After_the_Storm"
+
+author="shadowm (Iris Morelle)"
+email="shadowm@wesnoth.org"
+
+description="This add-on is a resource package providing music for the After the Storm campaign. It is NOT intended for installation without the After the Storm campaign.
+
+Installation of this add-on is optional for players with limited download rates or quotas, or who don't play with music or sounds enabled."
+
+passphrase="@ PBLPOST:PASSPHRASE AtS_Music @"
+
+icon="@ PBLPOST:BASE64 ../After_the_Storm/images/addon-icon.png @"
