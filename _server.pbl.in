@@ -13,3 +13,11 @@ Installation of this add-on is optional for players with limited download rates 
 passphrase="@ PBLPOST:PASSPHRASE AtS_Music @"
 
 icon="@ PBLPOST:BASE64 ../After_the_Storm/images/campaign-icon-episode1.png @"
+
+[translation]
+    language="ru"
+    title="Музыка «После Бури»"
+    description="Это дополнение — пакет с музыкой для кампании «После Бури» (After the Storm). Оно НЕ предназначено для установки без самой кампании.
+
+Установка этого аддона необязательна для игроков с ограниченным сетевым трафиком либо для тех, кто играет без звука."
+[/translation]
