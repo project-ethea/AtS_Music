@@ -3,7 +3,7 @@ type="media"
 version="@ PBLPOST:VERSION @"
 dependencies="After_the_Storm"
 
-author="shadowm (Iris Morelle)"
+author="Iris Morelle (shadowm)"
 email="shadowm@wesnoth.org"
 
 description="This add-on is a resource package providing music for the After the Storm campaign. It is NOT intended for installation without the After the Storm campaign.
